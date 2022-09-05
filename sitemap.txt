@@ -1,0 +1,10 @@
+http://example.com/post/112233.html
+http://example.com/post/hello-world.html
+http://example.com/post/123321.html
+http://example.com/post/test.html
+http://example.com/about/index.html
+http://example.com/message-board/index.html
+http://example.com/
+http://example.com/tags/%E5%8D%9A%E5%AE%A2/
+http://example.com/tags/hexo/
+http://example.com/categories/web%E5%89%8D%E7%AB%AF/
