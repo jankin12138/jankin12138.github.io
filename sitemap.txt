@@ -1,4 +1,4 @@
-http://example.com/chain/%E5%8F%8B%E9%93%BE.html
+http://example.com/chain/index.html
 http://example.com/post/%E5%85%A8%E5%B1%80%E9%94%81.html
 http://example.com/post/MySQL%E6%A1%86%E6%9E%B6.html
 http://example.com/about/index.html
